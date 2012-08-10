@@ -16,6 +16,7 @@ DESTINATARIO="$1"
 ASSUNTO="$2"
 MSGM="$3"
 
+#sadasdjaklsdjklasdj
 #USUARIO="$DESTINATARIO"
 #----------------- IMAGEM -----------------#
 HOME_Z="/usr/local/share/zabbix/alertscripts"
