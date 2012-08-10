@@ -1,6 +1,7 @@
 #!/bin/bash
 #.......
 
+#japa gostoso
 #--------------------------Configurações-------------------------------
 DATA_=$(date +%d-%m-%y) # dd-mm-aa
 #USUARIO="daniel.miyagi"
