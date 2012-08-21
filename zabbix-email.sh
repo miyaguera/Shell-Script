@@ -1,7 +1,6 @@
 #!/bin/bash
 #.......
 
-#japa gostoso
 #--------------------------Configurações-------------------------------
 DATA_=$(date +%d-%m-%y) # dd-mm-aa
 #USUARIO="daniel.miyagi"
@@ -17,8 +16,6 @@ DESTINATARIO="$1"
 ASSUNTO="$2"
 MSGM="$3"
 
-#sadasdjaklsdjklasdj
-#USUARIO="$DESTINATARIO"
 #----------------- IMAGEM -----------------#
 HOME_Z="/usr/local/share/zabbix/alertscripts"
 HOME_IMG=""$HOME_Z"/imagens"
